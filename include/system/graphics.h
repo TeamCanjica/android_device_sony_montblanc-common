@@ -138,7 +138,7 @@ enum {
      */
     HAL_PIXEL_FORMAT_IMPLEMENTATION_DEFINED = 0x22,
     
-     */
+     
     HAL_PIXEL_FORMAT_RAW_SENSOR = 0x20,
 
     /* STE: Added Support of YUV42XMBN, required for Copybit CC acceleration */
